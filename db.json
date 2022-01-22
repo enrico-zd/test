@@ -1,0 +1,54 @@
+{
+  "kaset_game": [
+    {
+      "id": "1",
+      "kode": "K-01",
+      "nama": "It Takes Two",
+      "harga": "490000",
+      "is_ready": "1",
+      "gambar": "it-takes-two.jpg"
+    },
+    {
+      "id": "2",
+      "kode": "K-02",
+      "nama": "The Last of Us Part II",
+      "harga": "429000",
+      "is_ready": "1",
+      "gambar": "last-of-us.jpg"
+    },
+    {
+      "id": "3",
+      "kode": "K-03",
+      "nama": "Sekiro: Shadows Die Twice",
+      "harga": "664000",
+      "is_ready": "1",
+      "gambar": "sekiro.png"
+    },
+    {
+      "id": "4",
+      "kode": "K-04",
+      "nama": "Final Fantasy 7 Remake",
+      "harga": "576000",
+      "is_ready": "1",
+      "gambar": "ff7.jpg"
+    },
+    {
+      "id": "5",
+      "kode": "K-05",
+      "nama": "Far Cry 6",
+      "harga": "654000",
+      "is_ready": "1",
+      "gambar": "far-cry-61.jpg"
+    },
+    {
+      "id": "6",
+      "kode": "K-06",
+      "nama": "Resident Evil Village",
+      "harga": "600000",
+      "is_ready": "1",
+      "gambar": "re8.jpg"
+    }
+  ],
+  "keranjang": [],
+  "pemesanans": []
+}
